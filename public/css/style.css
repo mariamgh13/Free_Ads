@@ -1,0 +1,63 @@
+    /*LAYOUT*/
+    
+    body {
+        background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+        color: black;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+    }
+    
+    .panel-heading {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    /*INDEX*/
+    
+    #index_body {
+        text-align: center;
+    }
+    
+    .index_row {
+        align-items: center;
+    }
+    
+    .index_div_titre {
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+    
+    .index_img_geralt {
+        height: 400px;
+    }
+    
+    .index_img_ciri {
+        height: 500px;
+    }
+    
+    .index_img_board {
+        height: 600px;
+    }
+    
+    .index_divs {
+        margin-top: 2rem;
+    }
+    
+    .index_h3 {
+        font-family: "Lucida Console", Courier, monospace;
+    }
+    
+    .index_a {
+        color: darkred;
+    }
+    
+    .index_a:hover {
+        text-decoration: none;
+        color: red;
+    }
+    
+    .index_button {
+        padding: 3px;
+        padding-left: 6px;
+        padding-right: 6px;
+        ;
+    }
